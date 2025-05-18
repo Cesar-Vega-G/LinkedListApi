@@ -1,0 +1,6 @@
+@LinkedListApi_HostAddress = http://localhost:5216
+
+GET {{LinkedListApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
